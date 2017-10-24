@@ -19,3 +19,7 @@ de la pròpia definició.
 - [diccionaris](https://www.diccionaris.cat)
 és una pàgina que té un motor per buscar permetent trobar paraules
 on només tenies alguna idea de com s'escrivia.
+
+
+# Ortografia
+- [IEC](http://www.iec.cat/llengua/documents/ortografia_catalana_versio_digital.pdf)
